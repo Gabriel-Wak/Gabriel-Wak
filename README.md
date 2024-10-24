@@ -24,6 +24,6 @@
   <a href = "mailto:gabrieltrabalho199@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gabriel-Wak=anuraghazra&hide=contribs,prs)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gabriel-Wak=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
