@@ -36,11 +36,11 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://SEU-LINK-DO-PORTFOLIO.com" target="_blank">
+  <a href="https://portifoliowak.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielhenriquewak/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
