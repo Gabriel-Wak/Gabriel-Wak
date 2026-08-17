@@ -40,7 +40,7 @@ No dia a dia, trabalho com **React**, **TypeScript**, **Node.js**, **PostgreSQL*
 <tr>
 <td width="62%" valign="top">
 
-**[NEXTCLINIC.AI](https://nextclinic.ai)** — Atendente virtual 24h para clínicas. WhatsApp, Instagram e Messenger numa caixa só. Eu fiz e sou o dono.
+**[NEXTCLINIC.AI](https://nextclinicai.com.br/)** — Atendente virtual 24h para clínicas. WhatsApp, Instagram e Messenger numa caixa só. Eu fiz e sou o dono.
 
 **[GRAND'ORO](https://github.com/Gabriel-Wak/grandoro)** — Landing page imobiliária com captação de leads e experiência premium.
 
