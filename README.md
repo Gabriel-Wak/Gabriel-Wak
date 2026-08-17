@@ -22,9 +22,9 @@
 
 **E aí! Eu sou o Gabriel** 👋
 
-Full-Stack Developer · Sorocaba, SP · Dono da [NextClinic.ai](https://nextclinic.ai)
+Full-Stack Developer · Sorocaba, SP · Designer Web
 
-Eu projeto, codifico e coloco no ar produtos digitais completos — da primeira tela até o domínio publicado. Criei a **NextClinic.ai**, atendente virtual 24h para clínicas, e também entrego sites e sistemas para negócios reais.
+Eu projeto, codifico e coloco no ar produtos digitais completos da primeira tela até o domínio publicado. Criei a **NextClinic.ai**, atendente virtual 24h para clínicas, e também entrego sites e sistemas para negócios reais.
 
 No dia a dia, trabalho com **React**, **TypeScript**, **Node.js**, **PostgreSQL** e **Supabase**. Código limpo, performance e entrega no prazo.
 
