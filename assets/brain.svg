@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" fill="none">
+  <defs>
+    <linearGradient id="brainShade" x1="80" y1="40" x2="240" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="45%" stop-color="#6b7280" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="brainGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="320" height="320" rx="28" fill="#0a0a0a"/>
+
+  <g filter="url(#brainGlow)">
+    <path
+      d="M160 58
+         C118 58 92 88 88 122
+         C72 128 62 146 64 168
+         C66 192 82 210 104 218
+         C108 244 128 262 160 262
+         C192 262 212 244 216 218
+         C238 210 254 192 256 168
+         C258 146 248 128 232 122
+         C228 88 202 58 160 58Z"
+      fill="url(#brainShade)"
+      stroke="#ffffff"
+      stroke-width="5"
+      stroke-linejoin="round"
+    />
+
+    <path d="M118 118 C132 108 148 112 160 124 C172 112 188 108 202 118" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" opacity="0.85"/>
+    <path d="M108 154 C124 144 142 148 160 162 C178 148 196 144 212 154" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" opacity="0.7"/>
+    <path d="M118 190 C132 180 148 184 160 196 C172 184 188 180 202 190" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" opacity="0.55"/>
+    <path d="M160 124 L160 196" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" opacity="0.35"/>
+
+    <circle cx="132" cy="136" r="4" fill="#3b82f6" opacity="0.9"/>
+    <circle cx="188" cy="136" r="4" fill="#3b82f6" opacity="0.9"/>
+    <circle cx="160" cy="176" r="3" fill="#60a5fa" opacity="0.75"/>
+  </g>
+</svg>
