@@ -34,7 +34,7 @@ No dia a dia, trabalho com **React**, **TypeScript**, **Node.js**, **PostgreSQL*
 
 ---
 
-<h2 align="center">⬛ Top Projects <sub><sup>(feitos para ir pro ar de verdade)</sup></sub></h2>
+<h2 align="center">⬛ Top Projects</h2>
 
 <table>
 <tr>
