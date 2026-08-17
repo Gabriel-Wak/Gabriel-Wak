@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">⬛ Sobre mim</h2>
+<h2 align="center"><img src="./assets/mark.png" alt="" width="22" /> Sobre mim</h2>
 
 <table>
 <tr>
@@ -34,7 +34,7 @@ No dia a dia, trabalho com **React**, **TypeScript**, **Node.js**, **PostgreSQL*
 
 ---
 
-<h2 align="center">⬛ Top Projects</h2>
+<h2 align="center"><img src="./assets/mark.png" alt="" width="22" /> Top Projects</h2>
 
 <table>
 <tr>
@@ -57,7 +57,7 @@ No dia a dia, trabalho com **React**, **TypeScript**, **Node.js**, **PostgreSQL*
 
 ---
 
-<h2 align="center">⬛ Stack</h2>
+<h2 align="center"><img src="./assets/mark.png" alt="" width="22" /> Stack</h2>
 
 <div align="center">
 
@@ -76,7 +76,7 @@ No dia a dia, trabalho com **React**, **TypeScript**, **Node.js**, **PostgreSQL*
 
 ---
 
-<h2 align="center">⬛ Conectar</h2>
+<h2 align="center"><img src="./assets/mark.png" alt="" width="22" /> Conectar</h2>
 
 <div align="center">
 
@@ -103,7 +103,7 @@ No dia a dia, trabalho com **React**, **TypeScript**, **Node.js**, **PostgreSQL*
 
 ---
 
-<h2 align="center">⬛ Contribuições</h2>
+<h2 align="center"><img src="./assets/mark.png" alt="" width="22" /> Contribuições</h2>
 
 <div align="center">
 
