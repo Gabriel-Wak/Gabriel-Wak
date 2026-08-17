@@ -80,12 +80,4 @@ No dia a dia, trabalho com React, TypeScript, Node.js, PostgreSQL e Supabase. C�
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Gabriel-Wak&color=ffffff&style=for-the-badge&label=VISITAS" alt="Profile Views" />
-
-</div>
-
-<br/>
-
 <sub>デヴ・ガブリワク · DEV WAK</sub>
