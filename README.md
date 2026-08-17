@@ -4,6 +4,24 @@
 
 <br/><br/>
 
+<h2 align="center"><img src="./assets/mark.png" alt="" width="22" /> Conectar</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gabrielhenriquewak/">
+  <img src="https://img.shields.io/badge/LINKEDIN-gabrielhenriquewak-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://portifoliowak.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-portifoliowak.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+</a>
+<a href="https://wa.me/5515988308477">
+  <img src="https://img.shields.io/badge/WHATSAPP-(15)_98830--8477-171717?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
+</div>
+
+<br/><br/>
+
 <img src="https://img.shields.io/github/stars/Gabriel-Wak?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=171717" alt="Stars" />
 <img src="https://img.shields.io/github/followers/Gabriel-Wak?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=171717" alt="Followers" />
 
@@ -75,27 +93,6 @@ No dia a dia, trabalho com React, TypeScript, Node.js, PostgreSQL e Supabase. C�
 </div>
 
 ---
-
-<h2 align="center"><img src="./assets/mark.png" alt="" width="22" /> Conectar</h2>
-
-<div align="center">
-
-<a href="https://github.com/Gabriel-Wak">
-  <img src="https://img.shields.io/badge/GITHUB-Gabriel--Wak-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/gabrielhenriquewak/">
-  <img src="https://img.shields.io/badge/LINKEDIN-gabrielhenriquewak-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://portifoliowak.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-portifoliowak.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
-</a>
-<a href="https://wa.me/5515988308477">
-  <img src="https://img.shields.io/badge/WHATSAPP-(15)_98830--8477-171717?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-
-</div>
-
-<br/>
 
 > | Código nunca fica pronto. Só fica menos terrível a cada commit.
 >
