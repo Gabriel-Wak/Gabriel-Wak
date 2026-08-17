@@ -94,16 +94,6 @@ No dia a dia, trabalho com React, TypeScript, Node.js, PostgreSQL e Supabase. C�
 
 ---
 
-<h2 align="center"><img src="./assets/mark.svg" alt="" width="22" /> Contribuições</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Wak&bg_color=00000000&color=ffffff&line=ffffff&point=a3a3a3&hide_border=true" alt="Contribution Graph" width="100%" />
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Gabriel-Wak&color=ffffff&style=for-the-badge&label=VISITAS" alt="Profile Views" />
