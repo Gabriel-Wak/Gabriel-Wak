@@ -94,12 +94,6 @@ No dia a dia, trabalho com React, TypeScript, Node.js, PostgreSQL e Supabase. C�
 
 ---
 
-> | Código nunca fica pronto. Só fica menos terrível a cada commit.
->
-> Cada deploy que eu faço é basicamente um pedido de desculpas antecipado para o eu do futuro — mas pelo menos dessa vez o TypeScript passou.
-
----
-
 <h2 align="center"><img src="./assets/mark.svg" alt="" width="22" /> Contribuições</h2>
 
 <div align="center">
