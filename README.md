@@ -5,7 +5,6 @@
 <br/><br/>
 
 <img src="https://img.shields.io/github/stars/Gabriel-Wak?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=1f2937" alt="Stars" />
-<img src="https://img.shields.io/github/forks/Gabriel-Wak?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=1f2937" alt="Forks" />
 <img src="https://img.shields.io/github/followers/Gabriel-Wak?style=for-the-badge&logo=github&logoColor=3b82f6&labelColor=000000&color=111827" alt="Followers" />
 
 </div>
