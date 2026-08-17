@@ -8,16 +8,14 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gabrielhenriquewak/" title="LinkedIn">
-  <img src="https://cdn.simpleicons.org/linkedin/ffffff" alt="LinkedIn" width="36" height="36" />
+<a href="https://www.linkedin.com/in/gabrielhenriquewak/">
+  <img src="https://img.shields.io/badge/LINKEDIN-gabrielhenriquewak-21262d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;
-<a href="https://portifoliowak.vercel.app/" title="Portfólio">
-  <img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Portfólio" width="36" height="36" />
+<a href="https://portifoliowak.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-portifoliowak.vercel.app-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
 </a>
-&nbsp;&nbsp;
-<a href="https://wa.me/5515988308477" title="WhatsApp">
-  <img src="https://cdn.simpleicons.org/whatsapp/ffffff" alt="WhatsApp" width="36" height="36" />
+<a href="https://wa.me/5515988308477">
+  <img src="https://img.shields.io/badge/WHATSAPP-(15)_98830--8477-21262d?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 </div>
