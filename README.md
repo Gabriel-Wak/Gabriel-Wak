@@ -4,32 +4,32 @@
 
 <br/><br/>
 
-<h2 align="center"><img src="./assets/mark.png" alt="" width="22" /> Conectar</h2>
+<h2 align="center"><img src="./assets/mark.svg" alt="" width="22" /> Conectar</h2>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gabrielhenriquewak/">
-  <img src="https://img.shields.io/badge/LINKEDIN-gabrielhenriquewak-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-gabrielhenriquewak-21262d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://portifoliowak.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-portifoliowak.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portf√≥lio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-portifoliowak.vercel.app-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portf√≥lio" />
 </a>
 <a href="https://wa.me/5515988308477">
-  <img src="https://img.shields.io/badge/WHATSAPP-(15)_98830--8477-171717?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WHATSAPP-(15)_98830--8477-21262d?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 </div>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/stars/Gabriel-Wak?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=171717" alt="Stars" />
-<img src="https://img.shields.io/github/followers/Gabriel-Wak?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=171717" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Gabriel-Wak?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=21262d" alt="Stars" />
+<img src="https://img.shields.io/github/followers/Gabriel-Wak?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=21262d" alt="Followers" />
 
 </div>
 
 ---
 
-<h2 align="center"><img src="./assets/mark.png" alt="" width="22" /> Sobre mim</h2>
+<h2 align="center"><img src="./assets/mark.svg" alt="" width="22" /> Sobre mim</h2>
 
 <table>
 <tr>
@@ -52,7 +52,7 @@ No dia a dia, trabalho com React, TypeScript, Node.js, PostgreSQL e Supabase. C√
 
 ---
 
-<h2 align="center"><img src="./assets/mark.png" alt="" width="22" /> Top Projects</h2>
+<h2 align="center"><img src="./assets/mark.svg" alt="" width="22" /> Top Projects</h2>
 
 <table>
 <tr>
@@ -75,7 +75,7 @@ No dia a dia, trabalho com React, TypeScript, Node.js, PostgreSQL e Supabase. C√
 
 ---
 
-<h2 align="center"><img src="./assets/mark.png" alt="" width="22" /> Stack</h2>
+<h2 align="center"><img src="./assets/mark.svg" alt="" width="22" /> Stack</h2>
 
 <div align="center">
 
@@ -87,8 +87,8 @@ No dia a dia, trabalho com React, TypeScript, Node.js, PostgreSQL e Supabase. C√
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel-Wak&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&ring_color=ffffff&border_color=171717" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Wak&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=a3a3a3&dates=525252&border=171717" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel-Wak&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&ring_color=ffffff" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Wak&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=a3a3a3&dates=525252" alt="GitHub Streak" height="165" />
 
 </div>
 
@@ -100,11 +100,11 @@ No dia a dia, trabalho com React, TypeScript, Node.js, PostgreSQL e Supabase. C√
 
 ---
 
-<h2 align="center"><img src="./assets/mark.png" alt="" width="22" /> Contribui√ß√µes</h2>
+<h2 align="center"><img src="./assets/mark.svg" alt="" width="22" /> Contribui√ß√µes</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Wak&bg_color=000000&color=ffffff&line=ffffff&point=a3a3a3&area=true&area_color=171717&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Wak&bg_color=00000000&color=ffffff&line=ffffff&point=a3a3a3&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
