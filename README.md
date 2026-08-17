@@ -78,15 +78,6 @@ No dia a dia, trabalho com React, TypeScript, Node.js, PostgreSQL e Supabase. CÃ
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel-Wak&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&ring_color=ffffff" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Wak&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=a3a3a3&dates=525252" alt="GitHub Streak" height="165" />
-
-</div>
-
 ---
 
 <div align="center">
