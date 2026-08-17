@@ -20,11 +20,6 @@
 
 </div>
 
-<br/><br/>
-
-<img src="https://img.shields.io/github/stars/Gabriel-Wak?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=21262d" alt="Stars" />
-<img src="https://img.shields.io/github/followers/Gabriel-Wak?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=21262d" alt="Followers" />
-
 </div>
 
 ---
