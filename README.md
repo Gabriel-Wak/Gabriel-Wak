@@ -61,6 +61,8 @@ No dia a dia, trabalho com React, TypeScript, Node.js, PostgreSQL e Supabase. C�
 
 **[ALEMÃOZINHO SORVETES](https://alemaozinho.vercel.app/)** — Presença digital com a mesma confiança que a marca passa no balcão.
 
+**[ALEMÃO BURGERS](https://alemaoburgeur.vercel.app/)** — Site para hamburgueria com identidade forte, cardápio claro e experiência pensada para converter pedidos.
+
 </td>
 <td width="38%" align="center" valign="top">
   <img src="./assets/flame.png" alt="" width="260" />
